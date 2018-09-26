@@ -1,21 +1,15 @@
 # calculator
 
-> A Vue.js project
+> 간단한 계산기 by Vue JS
 
-## Build Setup
-
+## 실행방법
+1. npm이 설치(설치되어있다면 건너뜁니다.)
 ``` bash
-# install dependencies
 npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+2. 실행, http://localhost:8080 에서 사용할 수 있습니다.
+``` bash
+npm run dev
+```
+
