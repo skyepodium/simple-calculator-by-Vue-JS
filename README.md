@@ -1,6 +1,7 @@
 # calculator
 
-> 간단한 계산기 by Vue JS
+> 간단한 계산기 by Vue JS      
+
 
 ## 실행방법
 1. npm이 설치(설치되어있다면 건너뜁니다.)
@@ -13,3 +14,4 @@ npm install
 npm run dev
 ```
 
+![Alt Text](./readme_image/cal_movie.gif)
